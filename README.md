@@ -1,2 +1,2 @@
-# gestion-de-usuSRIOSSS-3
-pagina web con html , java y css, js 
+# gestiondeusuarios
+Sistema basico en html, js y css que gestiona usuarios en un sistema.
