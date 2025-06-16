@@ -1,6 +1,6 @@
 # gestiondeusuarios
 Sistema basico en html, js y css que gestiona usuarios en un sistema.
- un sistema simple desarrollado utilizando JavaScript, HTML y CSS para almacenar los datos de usuario y contraseña. Este tipo de sistema, comúnmente utilizado en aplicaciones web, permite a los usuarios almacenar su información personal para autenticar su identidad en futuras interacciones con la plataforma.
+ un sistema simple desarrollado utilizando HTML y CSS para almacenar los datos de usuario y contraseña. Este tipo de sistema, comúnmente utilizado en aplicaciones web, permite a los usuarios almacenar su información personal para autenticar su identidad en futuras interacciones con la plataforma.
 
 Objetivo
 El objetivo de este sistema es proporcionar una forma básica y funcional de capturar, almacenar y posiblemente recuperar datos de usuario (nombre de usuario y contraseña) mediante la interfaz web.
@@ -10,7 +10,7 @@ HTML (Estructura de la Página Web)
 
 El sistema está compuesto por un formulario simple en HTML, que permite al usuario introducir su nombre de usuario y contraseña.
 
-Los campos suelen estar acompañados por un botón de envío que ejecuta un evento en JavaScript.
+Los campos suelen estar acompañados por un botón de envío que ejecuta un evento en HTML.
 
 CSS (Estilo Visual)
 
